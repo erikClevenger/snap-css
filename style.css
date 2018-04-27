@@ -1,0 +1,24 @@
+body {
+	font-size: 16px;
+}
+
+.happyContainer {
+	text-align: center;
+}
+
+.five {
+	font-size: 1.1em;
+	color: dimgrey;
+
+}
+
+.otherFour {
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+#treeFriend {
+	font-size: 2.1em;
+	font-weight: bolder;
+	color: lightcoral;
+}
